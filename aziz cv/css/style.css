@@ -1,0 +1,39 @@
+body{
+	background-color: black;
+
+}
+.nav{
+	
+	height: 70px;
+	width: 100%;
+	display: flex;
+	justify-content: center;
+	align-items: center
+}
+.nav a{
+	color: white;
+	text-decoration: none;
+	margin-left:120px
+}
+.centre{display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+}
+.centre{width: 400px;
+  height: 400px;
+}
+h1{text-align: center;
+}
+h1{color: red
+}
+.logo{width: 240px;
+  height: 240px;
+}
+#logo1{display: flex; 
+justify-content: space-around;
+}
+ h2{color: white;
+}
+h4{color: white;
+}
